@@ -1,0 +1,1 @@
+<?php require '../includes/functions.php'; unset($_SESSION['customer_id']); redirect('../index.php'); ?>

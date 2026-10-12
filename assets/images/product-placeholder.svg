@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#fff7cf"/>
+  <rect x="55" y="55" width="490" height="290" rx="28" fill="#111"/>
+  <rect x="95" y="95" width="410" height="78" fill="#F4C400"/>
+  <rect x="95" y="205" width="260" height="45" fill="#D62828"/>
+  <text x="300" y="325" text-anchor="middle" font-family="Arial" font-size="30" font-weight="800" fill="#fff">VALMADRID PRINT</text>
+</svg>

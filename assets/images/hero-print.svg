@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 800">
+  <rect width="1400" height="800" fill="#F4C400"/>
+  <circle cx="1120" cy="170" r="230" fill="#D62828" opacity=".9"/>
+  <rect x="760" y="290" width="430" height="250" rx="24" fill="#111"/>
+  <rect x="805" y="330" width="340" height="45" fill="#fff"/>
+  <rect x="805" y="398" width="250" height="36" fill="#F4C400"/>
+  <rect x="120" y="155" width="440" height="315" rx="28" fill="#fff" opacity=".92"/>
+  <text x="165" y="250" font-family="Arial" font-size="64" font-weight="900" fill="#D62828">PRINT</text>
+  <text x="165" y="325" font-family="Arial" font-size="58" font-weight="900" fill="#111">SHOP</text>
+  <path d="M0 650 C250 530 520 730 790 620 C1040 520 1200 610 1400 540 L1400 800 L0 800 Z" fill="#111" opacity=".75"/>
+</svg>
