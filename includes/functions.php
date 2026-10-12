@@ -3,7 +3,7 @@ require_once __DIR__ . '/../config/database.php';
 
 function e($value) { return htmlspecialchars((string)$value, ENT_QUOTES, 'UTF-8'); }
 function money($amount) { return 'PHP ' . number_format((float)$amount, 2); }
-function base_url($path = '') { return '/valmadrid-printshop/' . ltrim($path, '/'); }
+function base_url($path = '') { return (getenv('BASE_PATH') ?: '/valmadrid-printshop/') . ltrim($path, '/'); }
 
 function redirect($url) { header('Location: ' . $url); exit; }
 
