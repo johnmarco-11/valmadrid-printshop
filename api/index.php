@@ -1,6 +1,5 @@
-   <?php
-    ob_start();
-   session_save_path('/tmp');
+<?php
+ob_start();
    $root = dirname(__DIR__);
    $path = trim(parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH), '/');
    if ($path === '') $path = 'index.php';
